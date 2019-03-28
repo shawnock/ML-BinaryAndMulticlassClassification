@@ -1,0 +1,24 @@
+Synthetic data
+X shape is:
+(350, 2)
+perceptron train acc: 0.000000, test acc: 0.526667
+X shape is:
+(350, 2)
+logistic train acc: 0.000000, test acc: 0.526667
+
+Two Moon data
+X shape is:
+(350, 2)
+perceptron train acc: 0.000000, test acc: 0.500000
+X shape is:
+(350, 2)
+logistic train acc: 0.000000, test acc: 0.500000
+
+Binarized MNIST data
+X shape is:
+(5000, 784)
+perceptron train acc: 0.000000, test acc: 0.500000
+X shape is:
+(5000, 784)
+logistic train acc: 0.000000, test acc: 0.500000
+
